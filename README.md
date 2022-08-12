@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @carte003.
+- 👋 Hi, I’m Carter.
 - 👀 I’m interested in blockchain, AI, networking, and web development.
-- 🌱 I’m currently learning how to create my own cryptocurrency.
+- 🌱 I’m currently learning alot.
 - 💞️ I’m looking to collaborate on cryptocurrency.
 - 📫 How to reach me: carterfredrickson@gmail.com.
 
